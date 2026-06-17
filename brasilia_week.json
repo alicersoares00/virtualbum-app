@@ -1,0 +1,159 @@
+{
+  "location": {
+    "city": "Brasilia",
+    "latitude": -15.7939,
+    "longitude": -47.8828
+  },
+  "source": "Open-Meteo",
+  "generatedAt": "2026-06-15T21:12:15.110Z",
+  "timezone": "America/Sao_Paulo",
+  "forecast": [
+    {
+      "date": "2026-06-15",
+      "displayDate": "seg., 15/06",
+      "emoji": "🌦️",
+      "climateLabel": "Chuva leve",
+      "condition": "garoa ou chuva fraca em alguns periodos",
+      "temperatureMax": 26.3,
+      "temperatureMin": 17.1,
+      "rainVolume": 1.9,
+      "recommendation": "Clima bom para desacelerar sem perder a chance de sair se abrir uma janela seca.",
+      "suggestedActions": [
+        "leitura",
+        "playlist relaxante",
+        "cafe"
+      ],
+      "palette": {
+        "background": "#DDEBFF",
+        "border": "#9CBCE8",
+        "accent": "#416BA8"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "displayDate": "ter., 16/06",
+      "emoji": "🌦️",
+      "climateLabel": "Chuva leve",
+      "condition": "garoa ou chuva fraca em alguns periodos",
+      "temperatureMax": 25.3,
+      "temperatureMin": 16.8,
+      "rainVolume": 0.6,
+      "recommendation": "Clima bom para desacelerar sem perder a chance de sair se abrir uma janela seca.",
+      "suggestedActions": [
+        "cafe",
+        "filmes",
+        "criacao"
+      ],
+      "palette": {
+        "background": "#DDEBFF",
+        "border": "#9CBCE8",
+        "accent": "#416BA8"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "displayDate": "qua., 17/06",
+      "emoji": "🌦️",
+      "climateLabel": "Chuva leve",
+      "condition": "garoa ou chuva fraca em alguns periodos",
+      "temperatureMax": 25.2,
+      "temperatureMin": 16.6,
+      "rainVolume": 0.2,
+      "recommendation": "Clima bom para desacelerar sem perder a chance de sair se abrir uma janela seca.",
+      "suggestedActions": [
+        "Discord",
+        "leitura",
+        "playlist relaxante"
+      ],
+      "palette": {
+        "background": "#DDEBFF",
+        "border": "#9CBCE8",
+        "accent": "#416BA8"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "displayDate": "qui., 18/06",
+      "emoji": "🌦️",
+      "climateLabel": "Chuva leve",
+      "condition": "garoa ou chuva fraca em alguns periodos",
+      "temperatureMax": 25.3,
+      "temperatureMin": 16.6,
+      "rainVolume": 0.5,
+      "recommendation": "Clima bom para desacelerar sem perder a chance de sair se abrir uma janela seca.",
+      "suggestedActions": [
+        "criacao",
+        "cafe",
+        "filmes"
+      ],
+      "palette": {
+        "background": "#DDEBFF",
+        "border": "#9CBCE8",
+        "accent": "#416BA8"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "displayDate": "sex., 19/06",
+      "emoji": "⛅",
+      "climateLabel": "Parcialmente nublado",
+      "condition": "sol entre nuvens",
+      "temperatureMax": 25.8,
+      "temperatureMin": 16.9,
+      "rainVolume": 0,
+      "recommendation": "Dia flexivel que combina saidas leves com pausas em lugares fechados.",
+      "suggestedActions": [
+        "passeio curto",
+        "mercado",
+        "trilha"
+      ],
+      "palette": {
+        "background": "#E7F2E5",
+        "border": "#A9C8A5",
+        "accent": "#4F7A53"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "displayDate": "sáb., 20/06",
+      "emoji": "🌦️",
+      "climateLabel": "Chuva leve",
+      "condition": "garoa ou chuva fraca em alguns periodos",
+      "temperatureMax": 26.7,
+      "temperatureMin": 17.2,
+      "rainVolume": 0.6,
+      "recommendation": "Clima bom para desacelerar sem perder a chance de sair se abrir uma janela seca.",
+      "suggestedActions": [
+        "filmes",
+        "playlist relaxante",
+        "Discord"
+      ],
+      "palette": {
+        "background": "#DDEBFF",
+        "border": "#9CBCE8",
+        "accent": "#416BA8"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "displayDate": "dom., 21/06",
+      "emoji": "🌦️",
+      "climateLabel": "Chuva leve",
+      "condition": "garoa ou chuva fraca em alguns periodos",
+      "temperatureMax": 27,
+      "temperatureMin": 17.5,
+      "rainVolume": 0.6,
+      "recommendation": "Clima bom para desacelerar sem perder a chance de sair se abrir uma janela seca.",
+      "suggestedActions": [
+        "leitura",
+        "filmes",
+        "playlist relaxante"
+      ],
+      "palette": {
+        "background": "#DDEBFF",
+        "border": "#9CBCE8",
+        "accent": "#416BA8"
+      }
+    }
+  ]
+}
